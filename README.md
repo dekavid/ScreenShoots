@@ -23,8 +23,8 @@
 **Снимок:** Нажмите кнопку Print Screen (или ту, которую вы настроили). Скриншот мгновенно сохранится в папку Изображения/Screenshots, скопируется в буфер обмена.  
 **Настройки:** Чтобы изменить кнопку или папку, нажмите правой кнопкой мыши на иконку камеры в трее и выберите "Настройки".  
 **Смена клавиши:** В меню настроек нажмите кнопку выбора клавиши, затем нажмите любую кнопку на клавиатуре. Программа автоматически обновит привязку.  
-**[EN] Instructions:  
-Launch:** Download the executable from the Releases section and run Win11.exe.  
+[EN] Instructions:  
+**Launch:** Download the executable from the Releases section and run Win11.exe.  
 **Background Mode:** The app starts minimized in the system tray. No window will appear on startup — this is intended.  
 **Take a Shot:** Press Print Screen (or your custom hotkey). The screenshot will be saved to Pictures/Screenshots, copied to the clipboard, and opened in the editor.  
 **Settings:**Right-click the tray icon and select "Settings" to change the save path or hotkey.  
