@@ -1,6 +1,6 @@
 **📸 QuickSnip - Screenshot Tool for Windows 10**  
 [RU] Простая и быстрая утилита для создания скриншотов, которая имитирует поведение Windows 11 на старых версиях системы, добавляя автоматическое сохранение и удобное редактирование.  
-**✨ Features / Возможности**  
+**✨ Features**  
   Global Hotkey: Work by pressing Print Screen (or your custom key) even when minimized.  
   Auto-Save: Automatically saves images to Pictures/Screenshots folder.  
   Clipboard Support: Copies the screenshot to your clipboard instantly for quick sharing (Ctrl+V).  
