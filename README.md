@@ -18,14 +18,14 @@
 **📌 Note:** Если программа не реагирует на Print Screen, убедитесь, что в настройках Windows выключена опция "Использовать кнопку Print Screen для запуска фрагмента экрана".  
 **🚀 How to Use / Как использовать**  
 [RU] Инструкция:  
-**Запуск:** Скачайте архив из раздела Releases и запустите файл Win11.exe(путь - Win11/Win11/bin/Release).  
+**Запуск:** Скачайте архив из раздела Releases и запустите файл Win11.exe(путь - ScreenShoots-main/screenshot improved(Извлечь всё)/Win11/Win11/bin/Release).  
 **Фоновый режим:** После запуска программа автоматически свернется в трей. Окно настроек при этом не откроется — это нормально.  
 **Снимок:** Нажмите кнопку Print Screen (или ту, которую вы настроили). Скриншот мгновенно сохранится в папку Изображения/Screenshots, скопируется в буфер обмена.  
 **Настройки:** Чтобы изменить кнопку или папку, нажмите правой кнопкой мыши на иконку камеры в трее и выберите "Настройки".  
 **Смена клавиши:** В меню настроек нажмите кнопку выбора клавиши, затем нажмите любую кнопку на клавиатуре. Программа автоматически обновит привязку.  
 [EN] Instructions:  
-**Launch:** Download the executable from the Releases section and run Win11.exe(path - Win11/Win11/bin/Release).  
+**Launch:** Download the executable from the Releases section and run Win11.exe(path - ScreenShoots-main/screenshot improved(extract everything)/Win11/Win11/bin/Release).  
 **Background Mode:** The app starts minimized in the system tray. No window will appear on startup — this is intended.  
 **Take a Shot:** Press Print Screen (or your custom hotkey). The screenshot will be saved to Pictures/Screenshots, copied to the clipboard, and opened in the editor.  
-**Settings:**Right-click the tray icon and select "Settings" to change the save path or hotkey.  
-**Rebind Key:**Click the key selection button in the menu, then press any key on your keyboard to update the hotkey.
+**Settings:** Right-click the tray icon and select "Settings" to change the save path or hotkey.  
+**Rebind Key:** Click the key selection button in the menu, then press any key on your keyboard to update the hotkey.
