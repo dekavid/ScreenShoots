@@ -21,4 +21,3 @@
   The app creates a config.txt file in its directory to store your custom hotkey code.  
   Default Key: Print Screen  
   Path: %USERPROFILE%\Pictures\Screenshots  
-<img width="332" height="210" alt="image" src="https://github.com/user-attachments/assets/1a993f1f-c44b-44fc-a730-975db9e0dc7f" />
